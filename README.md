@@ -1,13 +1,8 @@
-<p align="center">
-	<img alt="Intro picture" src="https://i.imgur.com/frHv0Sy.jpeg"/>
-	<img alt="GitHub followers" src="https://img.shields.io/github/followers/sleepy-lux?style=fla"/> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/sleepy-lux?style=flat"/>
-</p>
-<br>
 <h2 align="center">📂About Me📂</h2>
 <p align="center">19 year old aspiring software developer.
 <br>Looking to improve my skills and abilities so I can make fun projects for people to enjoy and use!</p>
 <br>
-<h2 align="center">⚙️Technology Stacks⚙️ (5yr+ experience)</h2>
+<h2 align="center">⚙️Technology Stacks⚙️ (6yr+ experience)</h2>
 <p align="center">
 	<p align="center">My Expert Fields
 		<br>
@@ -34,8 +29,8 @@
 <br>
 
 <h2 align="center">📞Contact/Support me 💵</h2>
-<p align="center"><a href='https://ko-fi.com/sleepylux' target='_blank'><img align="center" src='https://storage.ko-fi.com/cdn/kofi5.png' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
-<p align="center"><img style="width:16cqw;" src="https://img.shields.io/badge/sleepyluxx-%235865F2.svg?&logo=discord&logoColor=white"></img></p>
+<p align="center"><a  href='https://ko-fi.com/sleepylux' target='_blank'><img style="width:12cqw;" align="center" src='https://storage.ko-fi.com/cdn/kofi5.png' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
+<p align="center"><img style="width:12cqw;" src="https://img.shields.io/badge/sleepyluxx-%235865F2.svg?&logo=discord&logoColor=white"></img></p>
 <br>
 <h2 align="center">📊(Disappointing) Github Stats📊
 	<br><br>
