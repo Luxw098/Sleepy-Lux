@@ -30,7 +30,7 @@
 
 <h2 align="center">📞Contact/Support me 💵</h2>
 <p align="center"><a  href='https://ko-fi.com/sleepylux' target='_blank'><img style="width:12cqw;" align="center" src='https://storage.ko-fi.com/cdn/kofi5.png' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
-<p align="center"><img style="width:12cqw;" src="https://img.shields.io/badge/sleepyluxx-%235865F2.svg?&logo=discord&logoColor=white"></img></p>
+<p align="center"><img style="width:12cqw;" src="https://img.shields.io/badge/tirednhigh-%235865F2.svg?&logo=discord&logoColor=white"></img></p>
 <br>
 <h2 align="center">📊(Disappointing) Github Stats📊
 	<br><br>
