@@ -1,5 +1,5 @@
 <h2 align="center">📂About Me📂</h2>
-<p align="center">19 year old aspiring software developer.
+<p align="center">aspiring software developer.
 <br>Looking to improve my skills and abilities so I can make fun projects for people to enjoy and use!</p>
 <br>
 <h2 align="center">⚙️Technology Stacks⚙️ (6yr+ experience)</h2>
